@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main() {
+int ___main() {
     int *a;
     int liczba, maxWzrost, maxMejsce;
 
