@@ -1,6 +1,4 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/untitled1.dir/NieparzysteWMacierzy/NieparzysteWMacierzy.c.obj"
-  "CMakeFiles/untitled1.dir/TelefonDoDziewczyny/TelefonDoDziewczyny.c.obj"
   "CMakeFiles/untitled1.dir/main.c.obj"
   "libuntitled1.dll.a"
   "untitled1.exe"

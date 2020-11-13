@@ -89,49 +89,19 @@ CMakeFiles/untitled1.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled1.dir/main.c.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\vadik\CLionProjects\untitled1\main.c -o CMakeFiles\untitled1.dir\main.c.s
 
-CMakeFiles/untitled1.dir/TelefonDoDziewczyny/TelefonDoDziewczyny.c.obj: CMakeFiles/untitled1.dir/flags.make
-CMakeFiles/untitled1.dir/TelefonDoDziewczyny/TelefonDoDziewczyny.c.obj: ../TelefonDoDziewczyny/TelefonDoDziewczyny.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\vadik\CLionProjects\untitled1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/untitled1.dir/TelefonDoDziewczyny/TelefonDoDziewczyny.c.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\untitled1.dir\TelefonDoDziewczyny\TelefonDoDziewczyny.c.obj   -c C:\Users\vadik\CLionProjects\untitled1\TelefonDoDziewczyny\TelefonDoDziewczyny.c
-
-CMakeFiles/untitled1.dir/TelefonDoDziewczyny/TelefonDoDziewczyny.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled1.dir/TelefonDoDziewczyny/TelefonDoDziewczyny.c.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\vadik\CLionProjects\untitled1\TelefonDoDziewczyny\TelefonDoDziewczyny.c > CMakeFiles\untitled1.dir\TelefonDoDziewczyny\TelefonDoDziewczyny.c.i
-
-CMakeFiles/untitled1.dir/TelefonDoDziewczyny/TelefonDoDziewczyny.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled1.dir/TelefonDoDziewczyny/TelefonDoDziewczyny.c.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\vadik\CLionProjects\untitled1\TelefonDoDziewczyny\TelefonDoDziewczyny.c -o CMakeFiles\untitled1.dir\TelefonDoDziewczyny\TelefonDoDziewczyny.c.s
-
-CMakeFiles/untitled1.dir/NieparzysteWMacierzy/NieparzysteWMacierzy.c.obj: CMakeFiles/untitled1.dir/flags.make
-CMakeFiles/untitled1.dir/NieparzysteWMacierzy/NieparzysteWMacierzy.c.obj: ../NieparzysteWMacierzy/NieparzysteWMacierzy.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\vadik\CLionProjects\untitled1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/untitled1.dir/NieparzysteWMacierzy/NieparzysteWMacierzy.c.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\untitled1.dir\NieparzysteWMacierzy\NieparzysteWMacierzy.c.obj   -c C:\Users\vadik\CLionProjects\untitled1\NieparzysteWMacierzy\NieparzysteWMacierzy.c
-
-CMakeFiles/untitled1.dir/NieparzysteWMacierzy/NieparzysteWMacierzy.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled1.dir/NieparzysteWMacierzy/NieparzysteWMacierzy.c.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\vadik\CLionProjects\untitled1\NieparzysteWMacierzy\NieparzysteWMacierzy.c > CMakeFiles\untitled1.dir\NieparzysteWMacierzy\NieparzysteWMacierzy.c.i
-
-CMakeFiles/untitled1.dir/NieparzysteWMacierzy/NieparzysteWMacierzy.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled1.dir/NieparzysteWMacierzy/NieparzysteWMacierzy.c.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\vadik\CLionProjects\untitled1\NieparzysteWMacierzy\NieparzysteWMacierzy.c -o CMakeFiles\untitled1.dir\NieparzysteWMacierzy\NieparzysteWMacierzy.c.s
-
 # Object files for target untitled1
 untitled1_OBJECTS = \
-"CMakeFiles/untitled1.dir/main.c.obj" \
-"CMakeFiles/untitled1.dir/TelefonDoDziewczyny/TelefonDoDziewczyny.c.obj" \
-"CMakeFiles/untitled1.dir/NieparzysteWMacierzy/NieparzysteWMacierzy.c.obj"
+"CMakeFiles/untitled1.dir/main.c.obj"
 
 # External object files for target untitled1
 untitled1_EXTERNAL_OBJECTS =
 
 untitled1.exe: CMakeFiles/untitled1.dir/main.c.obj
-untitled1.exe: CMakeFiles/untitled1.dir/TelefonDoDziewczyny/TelefonDoDziewczyny.c.obj
-untitled1.exe: CMakeFiles/untitled1.dir/NieparzysteWMacierzy/NieparzysteWMacierzy.c.obj
 untitled1.exe: CMakeFiles/untitled1.dir/build.make
 untitled1.exe: CMakeFiles/untitled1.dir/linklibs.rsp
 untitled1.exe: CMakeFiles/untitled1.dir/objects1.rsp
 untitled1.exe: CMakeFiles/untitled1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\vadik\CLionProjects\untitled1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking C executable untitled1.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\vadik\CLionProjects\untitled1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable untitled1.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled1.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -6,18 +6,6 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/vadik/CLionProjects/untitled1/NieparzysteWMacierzy/NieparzysteWMacierzy.c
-stdio.h
--
-stdlib.h
--
-
-C:/Users/vadik/CLionProjects/untitled1/TelefonDoDziewczyny/TelefonDoDziewczyny.c
-stdio.h
--
-stdlib.h
--
-
 C:/Users/vadik/CLionProjects/untitled1/main.c
 stdio.h
 -

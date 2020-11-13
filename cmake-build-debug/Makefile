@@ -142,60 +142,6 @@ untitled1/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make CMakeFiles/untitled1.dir/build
 .PHONY : untitled1/fast
 
-NieparzysteWMacierzy/NieparzysteWMacierzy.obj: NieparzysteWMacierzy/NieparzysteWMacierzy.c.obj
-
-.PHONY : NieparzysteWMacierzy/NieparzysteWMacierzy.obj
-
-# target to build an object file
-NieparzysteWMacierzy/NieparzysteWMacierzy.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make CMakeFiles/untitled1.dir/NieparzysteWMacierzy/NieparzysteWMacierzy.c.obj
-.PHONY : NieparzysteWMacierzy/NieparzysteWMacierzy.c.obj
-
-NieparzysteWMacierzy/NieparzysteWMacierzy.i: NieparzysteWMacierzy/NieparzysteWMacierzy.c.i
-
-.PHONY : NieparzysteWMacierzy/NieparzysteWMacierzy.i
-
-# target to preprocess a source file
-NieparzysteWMacierzy/NieparzysteWMacierzy.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make CMakeFiles/untitled1.dir/NieparzysteWMacierzy/NieparzysteWMacierzy.c.i
-.PHONY : NieparzysteWMacierzy/NieparzysteWMacierzy.c.i
-
-NieparzysteWMacierzy/NieparzysteWMacierzy.s: NieparzysteWMacierzy/NieparzysteWMacierzy.c.s
-
-.PHONY : NieparzysteWMacierzy/NieparzysteWMacierzy.s
-
-# target to generate assembly for a file
-NieparzysteWMacierzy/NieparzysteWMacierzy.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make CMakeFiles/untitled1.dir/NieparzysteWMacierzy/NieparzysteWMacierzy.c.s
-.PHONY : NieparzysteWMacierzy/NieparzysteWMacierzy.c.s
-
-TelefonDoDziewczyny/TelefonDoDziewczyny.obj: TelefonDoDziewczyny/TelefonDoDziewczyny.c.obj
-
-.PHONY : TelefonDoDziewczyny/TelefonDoDziewczyny.obj
-
-# target to build an object file
-TelefonDoDziewczyny/TelefonDoDziewczyny.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make CMakeFiles/untitled1.dir/TelefonDoDziewczyny/TelefonDoDziewczyny.c.obj
-.PHONY : TelefonDoDziewczyny/TelefonDoDziewczyny.c.obj
-
-TelefonDoDziewczyny/TelefonDoDziewczyny.i: TelefonDoDziewczyny/TelefonDoDziewczyny.c.i
-
-.PHONY : TelefonDoDziewczyny/TelefonDoDziewczyny.i
-
-# target to preprocess a source file
-TelefonDoDziewczyny/TelefonDoDziewczyny.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make CMakeFiles/untitled1.dir/TelefonDoDziewczyny/TelefonDoDziewczyny.c.i
-.PHONY : TelefonDoDziewczyny/TelefonDoDziewczyny.c.i
-
-TelefonDoDziewczyny/TelefonDoDziewczyny.s: TelefonDoDziewczyny/TelefonDoDziewczyny.c.s
-
-.PHONY : TelefonDoDziewczyny/TelefonDoDziewczyny.s
-
-# target to generate assembly for a file
-TelefonDoDziewczyny/TelefonDoDziewczyny.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled1.dir\build.make CMakeFiles/untitled1.dir/TelefonDoDziewczyny/TelefonDoDziewczyny.c.s
-.PHONY : TelefonDoDziewczyny/TelefonDoDziewczyny.c.s
-
 main.obj: main.c.obj
 
 .PHONY : main.obj
@@ -232,12 +178,6 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... untitled1
-	@echo ... NieparzysteWMacierzy/NieparzysteWMacierzy.obj
-	@echo ... NieparzysteWMacierzy/NieparzysteWMacierzy.i
-	@echo ... NieparzysteWMacierzy/NieparzysteWMacierzy.s
-	@echo ... TelefonDoDziewczyny/TelefonDoDziewczyny.obj
-	@echo ... TelefonDoDziewczyny/TelefonDoDziewczyny.i
-	@echo ... TelefonDoDziewczyny/TelefonDoDziewczyny.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

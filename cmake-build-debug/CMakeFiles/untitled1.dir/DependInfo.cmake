@@ -4,8 +4,6 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/vadik/CLionProjects/untitled1/NieparzysteWMacierzy/NieparzysteWMacierzy.c" "C:/Users/vadik/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/NieparzysteWMacierzy/NieparzysteWMacierzy.c.obj"
-  "C:/Users/vadik/CLionProjects/untitled1/TelefonDoDziewczyny/TelefonDoDziewczyny.c" "C:/Users/vadik/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/TelefonDoDziewczyny/TelefonDoDziewczyny.c.obj"
   "C:/Users/vadik/CLionProjects/untitled1/main.c" "C:/Users/vadik/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
