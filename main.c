@@ -1,32 +1,22 @@
+//a = (int *) malloc(dlugoscTablicy * sizeof(int));
 #include <stdio.h>
 #include <stdlib.h>
 
 int main() {
-    int *a;
-    int zestaw;
-    int dlugoscCigu;
-    int findX;
+   int uczn = 0;
+   int * lista;
+   int zapytania = 0;
+   scanf("%d", &uczn);
+   lista = (int *) malloc(uczn * sizeof(int));
 
-    scanf("%d", &zestaw);
-    scanf("%d", &dlugoscCigu);
+   for(int i = 0; i <= uczn - 1; i++) {
+       lista[i];
+   }
+    scanf("%d", &zapytania);
 
-    while (zestaw--) {
-        int position = 0;
-        a = (int *) malloc(dlugoscCigu * sizeof(int));
-        for (int i = 0; i < dlugoscCigu; i++) {
-            scanf("%d", &a[i]);
-        }
+   for(int i = 0; i <= zapytania - 1; i++) {
 
-        scanf("%d", &findX);
-
-        for (int i = 0; i < dlugoscCigu; i++) {
-            if(a[i] == findX) {
-                position = i + 1;
-                break;
-            }
-        }
-        (position == 0) ? printf("%s\n", "BRAK") : printf("%d\n", position);
-    }
+   }
     return 0;
-
 }
+
